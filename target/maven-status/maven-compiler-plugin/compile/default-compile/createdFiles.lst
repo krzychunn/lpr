@@ -1,0 +1,17 @@
+com\openalpr\jni\json\JSON.class
+lpr\LicensePlateRecognition.class
+com\openalpr\jni\json\JSONArray.class
+com\openalpr\jni\json\JSONObject$1.class
+com\openalpr\jni\AlprPlate.class
+com\openalpr\jni\json\JSONStringer$Scope.class
+com\openalpr\jni\json\JSONException.class
+com\openalpr\jni\Alpr.class
+com\openalpr\jni\AlprCoordinate.class
+com\openalpr\jni\json\JSONStringer.class
+com\openalpr\jni\AlprException.class
+com\openalpr\jni\json\JSONObject.class
+com\openalpr\jni\json\JSONTokener.class
+com\openalpr\jni\AlprPlateResult.class
+com\openalpr\jni\AlprResults.class
+lpr\Main.class
+com\openalpr\jni\AlprRegionOfInterest.class

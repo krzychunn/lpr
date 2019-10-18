@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: junit:junit:4.11">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-javadoc.jar!/" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../../../programy/openalpr-2.3.0-win-64bit/openalpr_64" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
